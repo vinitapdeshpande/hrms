@@ -1,0 +1,41 @@
+[1mdiff --git a/ansible-collection-ibm b/ansible-collection-ibm[m
+[1mnew file mode 160000[m
+[1mindex 0000000..44d8ce3[m
+[1m--- /dev/null[m
+[1m+++ b/ansible-collection-ibm[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 44d8ce3b41c9815d6317e31ba01ad9d9e7290b26[m
+[1mdiff --git a/first.java b/first.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/shipment.java b/shipment.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3549495[m
+[1m--- /dev/null[m
+[1m+++ b/shipment.java[m
+[36m@@ -0,0 +1,5 @@[m
+[32m+[m[32mthis a program[m
+[32m+[m
+[32m+[m[32mThis is my 1st comment after commit.....[m
+[32m+[m
+[32m+[m[32mthis is 2nd edit for working directory and repo with differnet contain[m
+\ No newline at end of file[m
+[1mdiff --git a/test.java b/test.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3549495[m
+[1m--- /dev/null[m
+[1m+++ b/test.java[m
+[36m@@ -0,0 +1,5 @@[m
+[32m+[m[32mthis a program[m
+[32m+[m
+[32m+[m[32mThis is my 1st comment after commit.....[m
+[32m+[m
+[32m+[m[32mthis is 2nd edit for working directory and repo with differnet contain[m
+\ No newline at end of file[m
+[1mdiff --git a/z_ansible_collections_samples b/z_ansible_collections_samples[m
+[1mnew file mode 160000[m
+[1mindex 0000000..3601312[m
+[1m--- /dev/null[m
+[1m+++ b/z_ansible_collections_samples[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 3601312322e054e6c81b9c135cf898928594f9f1[m
